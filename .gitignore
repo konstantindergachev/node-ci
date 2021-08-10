@@ -1,0 +1,5 @@
+config/dev.js
+node_modules
+nohup.out
+dump.rdb
+package-lock.json
